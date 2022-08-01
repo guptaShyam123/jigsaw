@@ -1,0 +1,12 @@
+.form{
+
+    
+
+@media screen and (max-width: 600px) {
+    .contain  {
+      display: grid;
+    
+    }
+    
+  }
+}

@@ -1,0 +1,19 @@
+h6{
+ color:black;
+ font-weight:bolder;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+  .contain  {
+    display: grid;
+  
+  }
+  
+}

@@ -1,0 +1,8 @@
+.p{
+    display:-webkit-inline-flex;
+    margin:20px;
+    padding:20px;
+       justify-content: space-evenly;;
+    align-items: center;
+    margin-top: 20vh;
+}

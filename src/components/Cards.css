@@ -1,0 +1,30 @@
+#x {
+    font-family:'Potta One', cursive; 
+    font-weight: bolder;
+    font-size: 30px;
+    color:rgb(248, 164, 7)
+}
+.contain{
+    display:flex;
+    margin:10px;
+    padding:20px;
+       justify-content: space-evenly;;
+    align-items: center;
+    margin-top:30px;
+
+
+}
+h1{
+  font-family: 'Potta One' ;
+}
+
+
+
+  @media screen and (max-width: 600px) {
+    .contain  {
+      display: grid;
+    
+    }
+    
+  }
+
